@@ -1,0 +1,107 @@
+* {
+  font-family: "Verdana", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  max-width: 850px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+a,
+p,
+ul,
+table {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.date {
+  font-size: 20px;
+  color: gray;
+  margin-top: 15px;
+}
+
+.header {
+  background-color: rgba(21, 100, 156, 1);
+  padding: 30px 40px 50px 50px;
+  color: white;
+}
+a {
+  color: white;
+  margin-top: 50px;
+}
+a:visited {
+  color: DarkRed;
+}
+a:hover {
+  color: Tomato;
+}
+
+table {
+  margin-top: 15px;
+}
+
+th {
+  text-align: left;
+  vertical-align: bottom;
+  border-bottom: 0.5px solid;
+  padding-bottom: 5px;
+}
+
+td {
+  text-align: left;
+  vertical-align: bottom;
+  padding: 5px 15px 5px 0px;
+}
+
+#junior {
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+.work {
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+li {
+  margin-top: 7px;
+}
+ul {
+  padding-left: 40px;
+}
+
+.education {
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.hobby {
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.draw {
+  margin-top: 10px;
+  margin-bottom: 80px;
+}
+img {
+  width: 200px;
+  height: 150px;
+  color: red;
+  position: relative;
+  display: inline-block;
+}
